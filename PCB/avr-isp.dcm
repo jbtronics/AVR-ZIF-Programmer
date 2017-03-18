@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AVR-ISP
+D AVR-ISP
+K ISP
+$ENDCMP
+#
+#End Doc Library
