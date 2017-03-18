@@ -1,4 +1,7 @@
-# AVR-ZIF-Programmer
+# AVR-ZIF-Programmer Bootloader
+
+based on https://github.com/baerwolf/USBaspLoader
+Licensed under GPLv2.
 
 ## Instructions
 ### Precompiled hex
