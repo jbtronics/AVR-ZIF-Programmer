@@ -1,7 +1,7 @@
 # AVR-ZIF-Programmer
 
 An Universal AVR Programmer with a ZIF-Socket and ISP Header based on [USBasp by Thomas Fischl](http://www.fischl.de/usbasp/).
-The PCB was designed in [KiCAD](http://kicad-pcb.org/)
+The PCB was designed in [KiCAD](http://kicad.org/)
 
 ## Features:
 * based on USBasp by Thomas Fischl
